@@ -48,7 +48,7 @@ Task 2: Create your own files
 
 Task 2: instructions
 
-1.	Create the above file structure under your home directory using the terminal and write the different command lines to do so.
+1.	Create the file structure Assignment1_FileStructure.png under your home directory using the terminal and write the different command lines to do so.
 2.	Move to the directory Coursera.
 3.	Create a sub-directory "FirstCourse" inside Coursera.
 4.	Type the command cd firstcourse. What happened? Please explain?

@@ -5,6 +5,7 @@ Learn how to create and access files and directories  and navigate through them
 Understand full and relative file paths: when and how to use them
 Useful shortcuts
 
+
 Session2
 
 Learn how to create new files 

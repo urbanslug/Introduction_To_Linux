@@ -19,6 +19,28 @@ Always remember these rules while working with the Linux terminal
 Task 1: Create your own files and manipulate them!
 
 Task 1: Instructions
-We will be using the same file structure () you have created. Make sure you are in the right directory each time or specify the absolute or relative paths to the files you are dealing with.
+We will be using the same file structure (Assignment1_FilesStrcture.png) you have created. Make sure you are in the right directory each time or specify the absolute or relative paths to the files you are dealing with.
+
+1.	Open a terminal in your computer 
+2.	Create a new directory "assignment" under your Session2 directory
+3.	Create with nano 2 different files genes1 and genes2 under assignment (no need to copy paste the result into your assignment form)
+
+The content of genes1
+gene1 4
+gene3 66
+gene7 6
+The content of genes2
+gene1 4
+gene2 6
+gene4 66
+
+4.	Copy genes1 under the directory Session1
+5.	Rename the copy of genes1 (that is under Session1) to test1 
+6.	What would be the result of tail -n2 genes2?
+7.	What would be the result of head genes1? Explain
+8.	Create with touch 3 different files under assignment: genes3, genes4, genes5
+9.	Copy the newly created files as well as genes1 and genes2 using the wildcards into the directory Session1
+
+
 
 
